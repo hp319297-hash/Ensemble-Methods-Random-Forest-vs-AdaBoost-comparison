@@ -73,6 +73,4 @@ Students compare bagging vs boosting; performance depends on data and hyperparam
 
 ---
 
-## THEORY  
 
-Bagging reduces variance (averaging), boosting reduces bias (sequential focus on errors). 
